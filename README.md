@@ -29,7 +29,7 @@ TPNを中心とした輸液製剤の成分とかを計算するエクセル。�
 ## 時系列
 
 ### 2023/05/20
-NPPV_O2_FiO2.xlsxを入れました。
+NPPV_O2_FiO2.xlsxを入れました。と、Count_Yueki.xlsxをあえて*VLOOKUP*関数にしておきました。
 
 ### 2023/05/06
 Count_Yueki.xlsxを入れました。
